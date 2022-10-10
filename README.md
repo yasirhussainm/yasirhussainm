@@ -1,8 +1,7 @@
-### 👋Heyy, How you doing 
+### 👋Hey, How you doing 
+# I'm Yasir Hussain
 
-## I'm a Student Developer
-
-- I'm interested in user centered deigns.
+- I'm interested in user centered deisgns.
 - I Build Frontend Apps.
 - I’m looking to collaborate on wild ideas 
 - 2022 Goals: Learn more and develop all my cool projects!
