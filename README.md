@@ -18,11 +18,11 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,vue,nodejs,tailwind,html,css,py,c)](https://skills.thijs.gg)
 <br />
 <br />
-![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirhussainm&count_private=true&show_icons=true&theme=tokyonight)
+![Yasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasirhussainm&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight)
  
 <br >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirhussainm&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirhussainm&layout=compact&theme=tokyonight&hide_border=true&)
 
 [twitter]: https://twitter.com/_yasirbhai
 [instagram]: https://www.instagram.com/_yasirbhai
